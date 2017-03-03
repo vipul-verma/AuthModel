@@ -45,7 +45,7 @@
                                         <label for="" class="f600">Re-enter Password</label>
                                         <input type="password" class="form-control onyxBg bRad0" id="" placeholder="Re-enter Password *">
                                       </div>
-                                      <button type="submit" class="btn btn-default btn-signup f600 fs21" name="login">Sign Up</button>
+                                      <button type="submit" class="btn btn-default btn-register f600 fs21" name="register">Register</button>
                                 </form>
                             </div>
                             <div role="tabpanel" class="tab-pane whiteFg active fade in" id="login">

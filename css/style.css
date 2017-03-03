@@ -52,7 +52,7 @@ body {
 }
 
 .authSection {
-	margin-top: 25%;
+	margin-top: 20%;
 	padding-top: 15px;
 	padding-bottom: 15px;
 	border-radius:3px;
@@ -76,7 +76,7 @@ body {
 }
 
 .btn-login,
-.btn-signup {
+.btn-register {
 	border-radius:0;
 	background-color:#ff6666;
 	color:#ffffff;
@@ -89,9 +89,9 @@ body {
 .btn-login:hover,
 .btn-login:focus,
 .btn-login:active,
-.btn-signup:hover,
-.btn-signup:focus,
-.btn-signup:active {
+.btn-register:hover,
+.btn-register:focus,
+.btn-register:active {
 	outline:none;
 	background-color: #ff6666;
 	border:1px solid #EF4545;
