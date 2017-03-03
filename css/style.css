@@ -1,0 +1,57 @@
+/* color palete */
+.pinkBg {background-color:#59323C;}
+.pinkFg {color:#59323C;}
+
+.purpleBg{background-color:#260126;}
+.purpleFg{color:#260126;}
+
+.creamBg{background-color:#F2EEB3;}
+.creamFg{color:#F2EEB3;}
+
+.dustBg{background-color:#BFAF80;}
+.dustFg{color:#BFAF80;}
+
+.rustBg{background-color:#8C6954;}
+.rustFg{color:#8C6954;}
+
+.whiteBg{background-color:#ffffff;}
+.whiteFg{color:#ffffff;}
+
+.blackBg{background-color:#000000;}
+.blackFg{color:#000000;}
+/*********************/
+
+/* helper */
+.col-center {
+	margin:0 auto;
+	float: none;
+}
+
+.f300 {font-weight:300;}
+.f400 {font-weight:400;}
+.f600 {font-weight:600;}
+.f700 {font-weight:700;}
+
+.fs12 {font-size:12px;}
+.fs14 {font-size:14px;}
+.fs16 {font-size:16px;}
+.fs18 {font-size:18px;}
+.fs21 {font-size:21px;}
+.fs24 {font-size:24px;}
+
+.bRad0 {border-radius:0;}
+.bRad1 {border-radius:1px;}
+.bRad2 {border-radius:2px;}
+.bRad3 {border-radius:3px;}
+
+/*********************/
+
+/* main style */
+
+/*********************/
+
+
+
+/* Over Rides */
+
+/*********************/
